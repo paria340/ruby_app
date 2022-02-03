@@ -38,9 +38,6 @@ loop do
 end
 
 
-# print "enter city"
-#     cityChoice = gets.chomp
-
 
 
 
